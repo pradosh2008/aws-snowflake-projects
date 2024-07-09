@@ -1,0 +1,27 @@
+#write all the files to be ignored
+__pycache__/*
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.py~
+*.swp
+*.swo
+awsenv/
+datalake-libraries
+datalake-libraries/*
+node_modules
+node_modules/*
+transformation_client_package
+transformation_client_package/*
+connectaws/
+connectsnowflake/
+samplegluejob/
+snowflakecon/
+statiswebsitehosting/
+LPAaccess/
+*.zip
+.npmignore
+*.json
